@@ -4,6 +4,7 @@
 This project is suitable for understanding real-time systems, system design fundamentals, and modern chat application architecture.
 
 🛠️ Technologies Used
+
 🌐 Frontend
 TypeScript – Core scripting language
 
